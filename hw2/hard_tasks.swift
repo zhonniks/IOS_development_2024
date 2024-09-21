@@ -17,7 +17,7 @@ print(finalResult)
 //task 3 - Nested Collection
 var studentJournal: [String: Array<Int>] = [
     "Zhannel": [5, 5, 10, 5, 10],
-    "Yernur": [9, 5, 2, 7, 10],
+    "Nurlan": [9, 5, 2, 7, 10],
     "Camilla": [10, 10, 10, 10, 10]
 ]
 
