@@ -2,7 +2,7 @@
 //  I_Am_RichApp.swift
 //  I Am Rich
 //
-//  Created by Zhannel Omarova on 27.09.2024.
+//  Created by Zhannel Omarova on 25.09.2024.
 //
 
 import SwiftUI
